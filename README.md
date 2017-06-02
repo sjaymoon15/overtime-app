@@ -1,5 +1,5 @@
 ## Overtime App
-####K ey requirement: company needs documentation that salaried employees did or did not get overtime each week
+#### Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
 #### Models
 
